@@ -1,0 +1,1 @@
+To use this script, go to https://www.themoviedb.org/ and create an account/login. After that, fill out their form and generate an API token then paste it into the script. When you are done with the setup, simply run the script and have fun ranking your favorite movies.
